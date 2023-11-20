@@ -1,2 +1,2 @@
 # motivationmeme
-just testing Github Hositng!
+just testing Github Hosting!
